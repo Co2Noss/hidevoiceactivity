@@ -1,0 +1,1 @@
+Hide Blizzard Voice Activity
