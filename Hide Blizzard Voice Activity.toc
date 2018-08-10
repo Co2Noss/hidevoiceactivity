@@ -2,7 +2,7 @@
 ## Title: Hide Blizzard Voice Activity
 ## Notes: LDB plugin button to quickly toggle Voice Activity UI frame.
 ## Author: Co2Noss
-## Version: 1.2
+## Version: 1.21
 ## SavedVariables: HideBlizzardVoiceActivityDB
 ## X-eMail: co2noss@gmail.com
 ## X-Website: https://github.com/Co2Noss/hidevoiceactivity
