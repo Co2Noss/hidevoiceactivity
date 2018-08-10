@@ -44,13 +44,11 @@ function LDBButton:OnClick(button)
 	-- left click for name toggle
 	if (button == "LeftButton") then
 		VoiceActivityManager:Hide()
-        print("Voice Activity Disabled")
 	end
 
 	-- right click for config
 	if (button == "RightButton") then
 		VoiceActivityManager:Show()
-        print("Voice Activity Enabled")
 	end
 end
 --------------------------------------------------
